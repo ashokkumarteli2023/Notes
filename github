@@ -3,3 +3,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 git push
 git pull
 git branch
+git checkout
+git merge
+git branch
+
