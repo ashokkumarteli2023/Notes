@@ -14,5 +14,6 @@ git add
 git commit 
 git config --global user.name
 git config --global user.email
+git config --global --edit
 git checkout
 git branch
