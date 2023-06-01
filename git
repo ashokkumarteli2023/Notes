@@ -8,10 +8,12 @@ ls -la
 cd
 cd ..
 
+git init
 git status
-git log
-git add 
-git commit 
+//git log
+git add <file> or . to stage all changes.
+git commit -m "commit msg"
+
 git config --global user.name
 git config --global user.email
 git config --global --edit
